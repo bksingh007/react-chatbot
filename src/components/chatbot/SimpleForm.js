@@ -62,7 +62,7 @@ class SimpleForm extends Component {
                   asMessage: true,
                   end: true
                }
-        ]}
+        ]} name="Test"
       />
         
         );
